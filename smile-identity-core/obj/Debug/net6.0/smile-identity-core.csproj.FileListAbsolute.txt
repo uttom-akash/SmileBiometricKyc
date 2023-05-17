@@ -1,0 +1,12 @@
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.csproj.AssemblyReference.cache
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.GeneratedMSBuildEditorConfig.editorconfig
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.AssemblyInfoInputs.cache
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.AssemblyInfo.cs
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.csproj.CoreCompileInputs.cache
+D:\smile-identity-dotnetcore\smile-identity-core\bin\Debug\net6.0\smile-identity-core.deps.json
+D:\smile-identity-dotnetcore\smile-identity-core\bin\Debug\net6.0\smile-identity-core.dll
+D:\smile-identity-dotnetcore\smile-identity-core\bin\Debug\net6.0\smile-identity-core.pdb
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.dll
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\refint\smile-identity-core.dll
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\smile-identity-core.pdb
+D:\smile-identity-dotnetcore\smile-identity-core\obj\Debug\net6.0\ref\smile-identity-core.dll

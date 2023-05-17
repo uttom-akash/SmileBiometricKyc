@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5XoaP5b8DgDEyaciP9sz2/y6JUOioSDJVsU0MAVviRg=",
+  "Source": "smile-identity-dotnetcore",
+  "BasePath": "_content/smile-identity-dotnetcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

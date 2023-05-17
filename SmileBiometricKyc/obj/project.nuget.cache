@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I0dna20W0GGT1iRfuQuadEYZWDQibB8ckb/NFAh0ZxrMPbQQUeXv4Oj5+wIKE7Z1udwVY6tw8+xqdRkhZPSmKA==",
+  "success": true,
+  "projectFilePath": "D:\\smile-identity-dotnetcore\\SmileBiometricKyc\\SmileBiometricKyc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.8\\microsoft.extensions.options.configurationextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\cefalo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+D:\smile-identity-dotnetcore\SmileBiometricKyc\obj\Debug\net6.0\SmileBiometricKyc.csproj.AssemblyReference.cache
+D:\smile-identity-dotnetcore\SmileBiometricKyc\obj\Debug\net6.0\SmileBiometricKyc.GeneratedMSBuildEditorConfig.editorconfig
+D:\smile-identity-dotnetcore\SmileBiometricKyc\obj\Debug\net6.0\SmileBiometricKyc.AssemblyInfoInputs.cache
+D:\smile-identity-dotnetcore\SmileBiometricKyc\obj\Debug\net6.0\SmileBiometricKyc.AssemblyInfo.cs
+D:\smile-identity-dotnetcore\SmileBiometricKyc\obj\Debug\net6.0\SmileBiometricKyc.csproj.CoreCompileInputs.cache

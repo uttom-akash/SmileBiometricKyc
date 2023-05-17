@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "smile-identity-dotnetcore", "smile-identity-dotnetcore\smile-identity-dotnetcore.csproj", "{DE406B90-C517-4FBF-A0BD-71CDC8737076}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "smile-identity-core", "smile-identity-core\smile-identity-core.csproj", "{BF851BB0-174C-4852-A771-681B858FF9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmileBiometricKyc", "SmileBiometricKyc\SmileBiometricKyc.csproj", "{6257AC59-CCCE-4315-842B-25C8B77F29C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE406B90-C517-4FBF-A0BD-71CDC8737076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE406B90-C517-4FBF-A0BD-71CDC8737076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE406B90-C517-4FBF-A0BD-71CDC8737076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE406B90-C517-4FBF-A0BD-71CDC8737076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF851BB0-174C-4852-A771-681B858FF9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF851BB0-174C-4852-A771-681B858FF9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF851BB0-174C-4852-A771-681B858FF9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF851BB0-174C-4852-A771-681B858FF9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6257AC59-CCCE-4315-842B-25C8B77F29C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6257AC59-CCCE-4315-842B-25C8B77F29C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6257AC59-CCCE-4315-842B-25C8B77F29C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6257AC59-CCCE-4315-842B-25C8B77F29C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9BB8AC-0677-4BC4-9D09-A315E416254F}
+	EndGlobalSection
+EndGlobal

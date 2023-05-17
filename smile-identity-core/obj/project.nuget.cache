@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aoDZ5YZ1XwKAtoGSSmDZFGKsx/ssd/i36EwrgarNNPPqZoX5DSNUlL3+2U6nQx/t/DAtLsHUUYLeyAWxaZlomA==",
+  "success": true,
+  "projectFilePath": "D:\\smile-identity-dotnetcore\\smile-identity-core\\smile-identity-core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cefalo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
